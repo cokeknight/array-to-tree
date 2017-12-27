@@ -1,3 +1,5 @@
+这个数组转为树形格式的函数性能比直接在递归里查找性能好上一倍，应用了原地算法
+
 # array-to-tree
 [![Build Status][travis-image]][travis-url] [![Dependency Status][depstat-image]][depstat-url]
 
